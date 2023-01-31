@@ -1,5 +1,25 @@
-full name
-city
-favorite motto
-favorite song title
-favorite person
+Problem Set No. 1
+
+1. Clone your repository to your local computer
+
+2. Open your repository and create the ff folders:
+  
+   prelim
+
+3. Under prelim folder, create problem-set/ folder
+  
+   prelim/
+       problem-sets/
+
+4. Inside problem-set/ folder, create ps-no-1.html
+
+5. Create/modify your first html code with the ff contents:
+
+   name
+   city
+   favorite motto
+   favorite song title
+   favorite person
+
+
+Deadline: Next meeting (Jan 31, 2023)
