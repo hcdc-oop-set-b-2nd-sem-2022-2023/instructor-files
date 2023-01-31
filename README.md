@@ -8,6 +8,9 @@ List of instructor materials for the OOP course
 
 3. VSCode (Code editor) - https://code.visualstudio.com/download
 
+## Resources
+1. https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
 ## Git Account Setup
 1. Open terminal
 
