@@ -1,0 +1,34 @@
+{
+  "name": "base-node-ts",
+  "version": "1.0.0",
+  "description": "A Base Template for Developing NodeJS Projects with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npm run lint-and-fix && nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run lint-and-fix && rimraf ./build && tsc",
+    "start": "npm run build && node build/index.js",
+    "lint": "eslint src/ --ext .ts,.js",
+    "lint-and-fix": "eslint src/ --ext .ts,.js --fix"
+  },
+  "author": "Karl Anthony Baluyot",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "kafka-node": "^5.0.0",
+    "prettier": "^2.0.2",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.5",
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "rimraf": "^3.0.2",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
