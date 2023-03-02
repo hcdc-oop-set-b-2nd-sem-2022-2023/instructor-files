@@ -13,5 +13,5 @@ Temperature in Kelvin: 298
 
 Select (C) for Celsius, (F) for Fahrenheit, (K) for Kelvin: F
 Enter temperature in Fahrenheit: 100
-Convert to: (F) for Fahrenheit, (K) for Kelvin: K
+Convert to: (C) for Celsius, (K) for Kelvin: K
 Temperature in Kelvin: 310.7778
