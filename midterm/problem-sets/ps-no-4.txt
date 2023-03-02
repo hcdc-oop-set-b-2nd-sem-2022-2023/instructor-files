@@ -1,0 +1,17 @@
+Problem Set No. 3
+
+Create a program that will convert temperaturs to C, F, K and vice versa.
+
+Example:
+
+Select (C) for Celsius, (F) for Fahrenheit, (K) for Kelvin: C
+Enter temperature in Celsius: 25
+Convert to: (F) for Fahrenheit, (K) for Kelvin: K
+Temperature in Kelvin: 298
+
+-------------
+
+Select (C) for Celsius, (F) for Fahrenheit, (K) for Kelvin: F
+Enter temperature in Fahrenheit: 100
+Convert to: (F) for Fahrenheit, (K) for Kelvin: K
+Temperature in Kelvin: 310.7778
