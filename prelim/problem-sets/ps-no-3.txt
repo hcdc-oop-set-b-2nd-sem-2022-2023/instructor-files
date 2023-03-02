@@ -1,0 +1,19 @@
+Problem Set No. 3
+
+Create a program that will function like a calculator.
+It should accept a first input, operator and second input then calculate 
+the result.
+
+Example:
+
+Enter first input: 2
+Select "+", "-", "*", "/" for operator: +
+Enter second input: 3
+2 + 3 = 5
+
+-------------
+
+Enter first input: 2
+Select "+", "-", "*", "/" for operator: *
+Enter second input: 3
+2 * 3 = 6
