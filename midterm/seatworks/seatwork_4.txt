@@ -1,0 +1,11 @@
+Seatwork No. 4
+
+Create a program that will calculate the sum of two arrays and store it in a new array
+
+Example:
+
+firstArray = [1, 2, 3, -4, 0]
+secondArray = [5 ,4 ,-2  -2, 1]
+
+result = [6, 6, 1, -6, 1]
+
