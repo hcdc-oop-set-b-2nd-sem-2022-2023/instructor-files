@@ -1,0 +1,17 @@
+Seatwork No. 3
+
+Create a program that will accept a base integer and exponent integer and calculate its power using loops only.
+
+Example:
+
+Enter base: 2
+Enter exponent: 3
+
+2^3 = 8
+
+-------
+
+Enter base: 0
+Enter exponent: 0
+
+0^0 = 1
