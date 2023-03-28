@@ -1,0 +1,9 @@
+Problem Set No. 6
+
+Create a function that will accept an array of numbers (in any order) and sort it from smallest to largest.
+It should be built using loops.
+
+Example:
+
+function input => [55, 1, 3, 2, 10]
+output => [1, 2, 3, 10, 55]

@@ -1,0 +1,13 @@
+Problem Set No. 5
+
+Create a function that will accept an array of numbers (in any order) and filter it (by odd or even) and assign to two arrays.
+It should be built using loops.
+
+Note: Only use one function and you can call this function twice (for odd and even application).
+Hint: make use of optional named parameter OR an extra argument to identify if calculating odd or even.
+
+Example:
+
+function input => [10, 1, 2, 2, 5]
+odd output => [1, 5]
+even output => [10, 2, 2]

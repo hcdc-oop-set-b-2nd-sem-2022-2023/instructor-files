@@ -1,0 +1,6 @@
+Problem Set No. 8
+
+Refactor Problem Set No. 3 using functions.
+Also add ability to calculate power of a number using for loops only.
+
+(refer to our lecture)
