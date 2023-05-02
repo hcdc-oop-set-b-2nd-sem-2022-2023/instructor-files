@@ -8,4 +8,4 @@ Create a `Rectangle` class that calculates and implements the following methods:
 
 - volume
 
-Length and Width should be initializable.
+Length, Width, Height should be initializable.
